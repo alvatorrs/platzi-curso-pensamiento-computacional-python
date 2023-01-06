@@ -12,6 +12,6 @@ def main():
 
     n = int(input('Digite un número: '))
     print(f'El factorial de {n} es {factorial(n)}')
-        
+
 if __name__ == '__main__':
     main()
